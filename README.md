@@ -7,3 +7,4 @@ Discover the simplicity of communicating between the different parts of your ext
 For a comprehensive understanding, be sure to check out the full tutorial available on Medium: https://medium.com/@joffrey.jougon/how-to-build-a-chrome-extension-on-flutter-and-use-the-chrome-api-62798f73c16f.
 
 ![image](https://user-images.githubusercontent.com/99202813/217265270-ff9c765b-8bbe-473b-947c-7ef71d1a571f.png)
+# flutter-chrome-app
